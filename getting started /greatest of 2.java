@@ -1,0 +1,20 @@
+import java.util.*;
+class HelloWorld {
+    public static void main(String[] args) {
+        Scanner scn = new Scanner(System.in);
+        
+        System.out.println("give the 1st number");
+        int num1 = scn.nextInt();
+        System.out.println("give the 2nd  number");
+        int num2 = scn.nextInt();
+        
+        if(num1>num2){
+            System.out.println(num1+" is the greatest");
+        }else if(num1 == num2){
+            System.out.println(" both is same");
+        }else{
+            System.out.println(num2+" is the greatest");
+        }
+        
+    }
+}
