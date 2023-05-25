@@ -1,3 +1,8 @@
+
+
+// dushra sara function main wale function ke bahar hota
+
+
 import java.util.*;
 class HelloWorld {
     public static void main(String[] args) {
