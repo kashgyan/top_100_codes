@@ -1,0 +1,7 @@
+
+how to return the pair in java :->
+      pair p=new pair(min,max);
+        return p;  
+        
+
+
